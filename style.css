@@ -1,0 +1,14 @@
+body {
+    background-color: rgba(176, 206, 252, 0.938);
+}
+div{
+    background-color: rgb(252, 122, 0);
+}
+
+.h1{
+    box-shadow: 0 4px 8px 0 black (0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}   
