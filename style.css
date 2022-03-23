@@ -12,3 +12,10 @@ div{
     text-align: center;
     font-family: 'Anton', sans-serif;
 }   
+
+
+body{
+  background-image: url(home_page.png) ;
+  background-size: cover;
+  min-height: 100vh;
+}
