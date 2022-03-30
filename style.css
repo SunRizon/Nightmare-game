@@ -19,3 +19,9 @@ body{
   background-size: cover;
   min-height: 100vh;
 }
+
+.centr-button{
+    position: absolute;
+    top:50%;
+    left: 45%;
+}
