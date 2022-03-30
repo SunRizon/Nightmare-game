@@ -4,3 +4,27 @@ body{
     min-height: 100vh;
   }
   
+
+  .button-n1 {
+    position: absolute;
+    top:20%;
+    left: 30%;
+  }
+
+  .button-n2 {
+    position: absolute;
+    top:50%;
+    left: 45%;
+  }
+
+  .button-n3 {
+    position: absolute;
+    top:50%;
+    left: 50%;
+    
+  }
+
+
+
+
+
