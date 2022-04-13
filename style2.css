@@ -7,20 +7,20 @@ body{
 
   .button-n1 {
     position: absolute;
-    top:20%;
-    left: 30%;
+    top:40%;
+    left:40%;
   }
 
   .button-n2 {
     position: absolute;
-    top:50%;
-    left: 45%;
+    top:40%;
+    left: 40%;
   }
 
   .button-n3 {
     position: absolute;
-    top:50%;
-    left: 50%;
+    top:40%;
+    left:40%;
     
   }
 
