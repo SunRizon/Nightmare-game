@@ -1,0 +1,5 @@
+body{
+    background-image: url(Room1.png) ;
+    background-size: cover;
+    min-height: 100vh;
+  }
